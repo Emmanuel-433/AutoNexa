@@ -33,3 +33,35 @@ MDN Web Docs (2026) Getting started with the Web*. Available at: https://develop
 WeBuyCars (2026) * Cars for sale*. Available at: https://www.webuycars.co.za/cars-for-sale (Accessed: 14 August 2026).
 WeBuyCars (2026) *How to sell your car*. Available at: https://www.webuycars.co.za/how-to-sell-your-car (Accessed: 14 August 2026).
 https://cdn.avo.africa/cdn-cgi/image/width=1400,height=933/https://eu.cdn.autosonshow.tv/5996/turntable/AHTBF8JE301018537/04_md.jpg
+
+
+## Test and Iterate
+
+I tested the AutoNexa website using browser developer tools at different screen sizes. The website was tested on desktop, tablet and mobile screen sizes to check that the layout and content adjusted correctly. The mobile test was 400 × 681, the tablet test was 768 × 681 and the desktop test was 1024 × 908. I also used responsive CSS with a media query to improve the layout on smaller screens. These tests helped me check that the website was easy to use on different screen sizes.
+
+
+## GitHub Repository
+
+I regularly committed my website changes to GitHub using descriptive commit messages. This allowed me to keep track of the changes made during the development of Part 2.
+
+## Changelog
+
+### Part 2
+- Tested the website on desktop, tablet and mobile screen sizes.
+- Improved the responsive layout using CSS media queries.
+- Adjusted the navigation and page layout for smaller screens.
+- Added and improved website images and styling.
+- Added the car video background to the Home page.
+- Made further design changes based on testing and feedback.
+
+### Part 1 Feedback Updates
+- Improved the website layout and styling based on feedback from Part 1.
+- Improved navigation between the website pages.
+- Improved the overall appearance of the website.
+- Updated the content and images used on the website.
+
+## References
+
+Pexels (2026) *Cars parked indoors in warehouse setting*. Available at: https://www.pexels.com/video/cars-parked-indoors-in-warehouse-setting-34678746/ (Accessed: 18 September 2026).
+
+W3Schools (2026) *CSS Responsive Web Design*. Available at: https://www.w3schools.com/css/css_rwd_intro.asp (Accessed: 18 September 2026).
