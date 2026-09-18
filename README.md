@@ -39,6 +39,18 @@ https://cdn.avo.africa/cdn-cgi/image/width=1400,height=933/https://eu.cdn.autoso
 
 I tested the AutoNexa website using browser developer tools at different screen sizes. The website was tested on desktop, tablet and mobile screen sizes to check that the layout and content adjusted correctly. The mobile test was 400 × 681, the tablet test was 768 × 681 and the desktop test was 1024 × 908. I also used responsive CSS with a media query to improve the layout on smaller screens. These tests helped me check that the website was easy to use on different screen sizes.
 
+## Mobile screen-size
+<img width="413" height="692" alt="Screenshot 2026-09-18 111001" src="https://github.com/user-attachments/assets/6f73dd98-dbe9-4dac-835c-bdd5e390cd2a" />
+
+## Tablet screen-size
+<img width="435" height="657" alt="Screenshot 2026-09-18 113842" src="https://github.com/user-attachments/assets/5b1cda08-aece-4aee-a211-ea4ed15ec684" />
+
+## Desktop screen-size
+<img width="911" height="714" alt="Screenshot 2026-09-18 111623" src="https://github.com/user-attachments/assets/d98bbd51-d773-4041-8c3b-052d50764c13" />
+
+
+
+
 
 ## GitHub Repository
 
