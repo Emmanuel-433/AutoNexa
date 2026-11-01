@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://Emmanuel-433.github.io/Autonexa/sitemap.xml

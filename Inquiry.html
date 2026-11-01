@@ -1,0 +1,137 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+         <title>Vehicle Inquiry | AutoNexa</title>
+         <meta name="description" content="Send AutoNexa an inquiry about vehicle prices, availability and other vehicle information.">
+        <meta name="referrer" content="strict-origin-when-cross-origin">
+         <link rel="stylesheet" href="CSS/style.css">
+    </head>
+    <body>
+
+   
+    <header>
+        <nav class="navbar">
+
+            <a href="Home.html" class="logo">
+                <img src="images/logo.jpg" alt="AutoNexa Logo">
+            </a>
+
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="About us.html">About Us</a></li>
+                <li><a href="Services.html">Services</a></li>
+                <li><a href="Gallery.html">Gallery</a></li>
+                <li><a href="Inquiry.html">Vehicle Inquiry</a></li>
+                <li><a href="Contact.html">Contact</a></li>
+            </ul>
+
+        </nav>
+    </header>
+
+    <section class="contact-hero">
+
+        <div>
+            <h1>Vehicle Inquiry</h1>
+            <p>Interested in one of our quality pre-owned vehicles? Send us a vehicle inquiry to find out more about pricing, availability and other vehicle information. Our team will be happy to assist you.</p>
+        </div>
+
+    </section>
+
+    <section class="contact-section">
+
+        <div class="contact-container">
+
+            <div class="contact-info">
+
+                <h2>Find Out More</h2>
+
+                <p>
+                    Complete the form to ask about a vehicle,
+                    its price or availability. Our AutoNexa team
+                    will be happy to assist you.
+                </p>
+
+            </div>
+
+            <div class="contact-form">
+
+                <h2>Vehicle Inquiry Form</h2>
+
+                <form id="inquiryForm">
+
+                    <label for="customerName">Full Name</label>
+                    <input type="text" id="customerName"
+                        placeholder="Enter your full name" required>
+
+                    <label for="customerEmail">Email Address</label>
+                    <input type="email" id="customerEmail"
+                        placeholder="Enter your email address" required>
+
+                    <label for="vehicle">Select Vehicle</label>
+                    <select id="vehicle" required>
+                        <option value="">Choose a vehicle</option>
+                        <option value="Toyota Corolla">Toyota Corolla</option>
+                        <option value="Volkswagen Golf">Volkswagen Golf</option>
+                        <option value="BMW 3 Series">BMW 3 Series</option>
+                        <option value="Ford Ranger">Ford Ranger</option>
+                        <option value="Hyundai Tucson">Hyundai Tucson</option>
+                        <option value="Mercedes-Benz C-Class">Mercedes-Benz C-Class</option>
+                    </select>
+
+                    <label for="inquiryType">Type of Inquiry</label>
+                    <select id="inquiryType" required>
+                        <option value="">Choose an inquiry</option>
+                        <option value="Price">Vehicle Price</option>
+                        <option value="Availability">Vehicle Availability</option>
+                        <option value="Other">Other Information</option>
+                    </select>
+
+                    <label for="inquiryMessage">Additional Message</label>
+                    <textarea id="inquiryMessage" rows="6"
+                        placeholder="Write your inquiry here..."
+                        required></textarea>
+
+                    <button type="submit">Submit Inquiry</button>
+
+                </form>
+
+                <p id="inquiryResponse"></p>
+
+            </div>
+
+        </div>
+
+    </section>
+
+<section class="contact-cta">
+
+    <h2>Found A Vehicle You Like?</h2>
+
+    <p>
+        Have questions about pricing or availability?
+        Contact AutoNexa and let us help you make your next move.
+    </p>
+
+    <a href="Contact.html">
+        Contact Us
+    </a>
+
+</section>
+
+   
+
+    <footer>
+
+        <p>&copy;St10501373 
+            <p>2026 AutoNexa. All Rights Reserved.</p>
+             <p>Your Car. Your Choice. Your Next Move.</p>
+
+    </footer>
+
+    <script src="JavaScript/script.js"></script>
+
+</body>
+</html>
